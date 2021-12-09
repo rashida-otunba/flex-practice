@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+    
+}
+
+.flexbox-container{
+    background-color: purple;
+    display: flex;
+    width: 700px;
+    Max-width: 800px;
+    Margin: 0 auto;
+   
+}
+
+.flex-column{
+    background-color: rosybrown;
+
+    margin: 20px;
+    padding: 15px;
+ 
+}
